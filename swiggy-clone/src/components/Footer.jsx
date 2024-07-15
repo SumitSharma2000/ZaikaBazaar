@@ -8,7 +8,7 @@ export default function Footer() {
         <div>
           <div className="flex items-center space-x-2">
             <img
-              src="images/swiggy-logo-bg-black-up.png"
+              src="images/swiggy-black-bg.png"
               className="w-11"
               alt="Swiggy Logo"
             />
