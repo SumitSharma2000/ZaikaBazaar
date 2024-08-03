@@ -34,6 +34,7 @@ Tailwind CSS: For rapid UI development and responsive design.
 ![Screenshot 2024-07-15 232136](https://github.com/user-attachments/assets/a7ed39b1-dcd8-4abc-8727-6a6a5e2a847d)
 ![Screenshot 2024-07-15 232156](https://github.com/user-attachments/assets/f57e50a6-8498-4ad5-a55e-b820e3e3c245)
 ![Screenshot 2024-07-15 232220](https://github.com/user-attachments/assets/576b1a79-5c4e-4e0c-98d1-bf3f98d712b6)
+![Screenshot 2024-08-03 140644](https://github.com/user-attachments/assets/e0c366be-5b37-47da-a155-35ea766fb54f)
 ![Screenshot 2024-07-15 232242](https://github.com/user-attachments/assets/bb248c47-53ed-4a3f-931a-819f85c40bfa)
 ![Screenshot 2024-07-15 233553](https://github.com/user-attachments/assets/8a79e45c-de8a-45a0-a21d-6dfd5b88c2b6)
 
