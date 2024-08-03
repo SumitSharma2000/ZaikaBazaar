@@ -1,7 +1,7 @@
 import React from "react";
 
 const AppStore = () => (
-  <section className="bg-gray-200 py-4">
+  <section className="bg-gray-200 py-4 mt-20">
     <div className="max-w-[1260px] mx-auto flex items-center justify-center gap-10">
       <p
         style={{

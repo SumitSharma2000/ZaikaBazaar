@@ -46,7 +46,7 @@ export default function Category() {
   });
 
   return (
-    <div className="max-w-[1260px] mx-auto category-container">
+    <div className="max-w-[1270px] mx-auto category-container">
       <div className="flex my-5 items-center justify-between">
         <div className="custom-font-class">What's on your mind?</div>
         <div className="flex">

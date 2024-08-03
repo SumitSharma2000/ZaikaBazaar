@@ -36,7 +36,7 @@ export default function OnlineDelivery() {
   }, []);
 
   return (
-    <div className="max-w-[1260px] mx-auto" ref={componentRef}>
+    <div className="max-w-[1280px] mx-auto" ref={componentRef}>
       <div className={`flex my-5 items-center justify-between ${isAtTop ? 'fixed top-0 z-[9999999] bg-white w-full left-0' : ''}`}>
         <div className="text-[25px] font-extrabold">Restaurants with online food delivery in Jodhpur</div>
       </div>
@@ -45,6 +45,7 @@ export default function OnlineDelivery() {
           <Card key={i} {...d} />
         ))}
       </div>
+      <hr className="my-6 border-[1px]" />
     </div>
   );
 }

@@ -4,6 +4,7 @@ import Header from  "./components/Header";
 import OnlineDelivery from "./components/OnlineDelivery";
 import TopRest from "./components/TopRest";
 import AppStore from "./components/AppStore";
+import NearMe from "./components/NearMe";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
   <Category/>
   <TopRest/>
   <OnlineDelivery/>
+  <NearMe/>
   <AppStore/>
   <Footer/>
   </>

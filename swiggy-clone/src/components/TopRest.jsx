@@ -30,7 +30,7 @@ export default function TopRest() {
     };
 
     return (
-        <div className="max-w-[1260px] mx-auto mb-[100px]">
+        <div className="max-w-[1280px] mx-auto mb-[100px]">
             <div className="flex my-10 items-center justify-between">
                 <div className="text-[25px] font-extrabold">Top restaurant chains in Jodhpur</div>
                 <div className="flex">

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { RxCaretDown, RxCross1 } from "react-icons/rx";
 import { IoIosSearch } from "react-icons/io";
-import { TbDiscount2 } from "react-icons/tb";
+import { CiDiscount1 } from "react-icons/ci";
 import { FaHandsHelping } from "react-icons/fa";
 import { IoCartOutline } from "react-icons/io5";
 import { IoPersonOutline } from "react-icons/io5";
@@ -61,7 +61,7 @@ export default function Header() {
       name: "Search",
     },
     {
-      icons: <TbDiscount2 />,
+      icons: <CiDiscount1 />,
       name: "Offer",
       sup: "new",
     },
@@ -136,7 +136,7 @@ export default function Header() {
             className="w-[50px] hover:scale-110 transition-transform duration-400"
             onClick={handleImageClick}
           >
-            <img src="images/swiggy logo.png" className="w-full" alt="" />
+            <img src="images/swiggy logo.png" className="w-full ml-5" alt="" />
           </div>
           <div
             className="cursor-pointer flex items-center group"
